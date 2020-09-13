@@ -3,7 +3,7 @@ title: This is my fourth post
 date: 2020-09-13T22:05:19.601Z
 author: John Doe
 summary: Why contemplating our mortality can be a powerful catalyst for change
-cover: static/images/portfolio/work-7.jpg
+cover: static/images/portfolio/work-5.jpg
 tags:
   - environment
   - politics
